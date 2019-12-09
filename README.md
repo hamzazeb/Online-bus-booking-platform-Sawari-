@@ -3,7 +3,7 @@ Sawari is an online bus booking platform. Developed in PHP-Laravel Framework and
 
 <strong>Download Wampserver64 and run this project in localhost. </strong>
 
-<h2>Attached files?</h2><br>
+<h2>Attached files?</h2>
 <b>1. Normalized Form: </b>
 	<li> Contains normalized form of the tables used in this project.</li>
 <br>
