@@ -3,21 +3,21 @@ Sawari is an online bus booking platform. Developed in PHP-Laravel Framework and
 
 <strong>Download Wampserver64 and run this project in localhost. </strong>
 
-<h2>Attached files?</h2>
+<h2>Attached files?</h2><br>
 <b>1. Normalized Form: </b>
-	- Contains normalized form of the tables used in this project.
-
+	<li> Contains normalized form of the tables used in this project.</li>
+<br>
 <b>2. Project Report v2: </b>
-	- A full project report, must read.
-
+	<li> A full project report, must read.</li>
+<br>
 <b>3. Table Structure + UI Preview...: </b>
-	- Contain structure of all tables used in this project.
-	- Contain full User Interface(UI) of the project.
-	- Contain admin panel interface.
-	- Contain admin panel login credential.
-
+	<li> Contain structure of all tables used in this project.</li>
+	<li> Contain full User Interface(UI) of the project.</li>
+	<li> Contain admin panel interface.</li>
+	<li> Contain admin panel login credential.</li>
+<br>
 <b>4. dailybuz.zip:</b>
-	- It contains Laravel Project Files.
-
+	<li> It contains Laravel Project Files.</li>
+<br>
 <b>5. thedailybusdb.sql:</b>
-	- This sql file contains a database of bus services.  
+	<li> This sql file contains a database of bus services.  </li>
